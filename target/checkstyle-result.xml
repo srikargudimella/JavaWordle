@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.2.1">
+<file name="/Users/srikargudimella/Downloads/hw09_local_temp/src/main/java/org/cis1200/wordle/GameBoard.java">
+</file>
+<file name="/Users/srikargudimella/Downloads/hw09_local_temp/src/main/java/org/cis1200/wordle/LetterBox.java">
+</file>
+<file name="/Users/srikargudimella/Downloads/hw09_local_temp/src/test/java/org/cis1200/Wordle/GameTest.java">
+<error line="103" column="19" severity="warning" message="&apos;(&apos; is followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+</file>
+</checkstyle>
